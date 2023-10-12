@@ -12,6 +12,10 @@ set_background('./bgs/bg5.png')
 st.markdown("<br>")
 st.markdown("<br>")
 st.markdown("<br>")
+st.markdown("<br>")
+st.markdown("<br>")
+st.markdown("<br>")
+
 st.title('Pneumonia classification')
 
 # set header
