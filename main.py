@@ -9,9 +9,9 @@ from util import classify, set_background
 set_background('./bgs/bg5.png')
 
 # set title
-st.markdown("")
-st.markdown("")
-st.markdown("")
+st.markdown("<br>")
+st.markdown("<br>")
+st.markdown("<br>")
 st.title('Pneumonia classification')
 
 # set header
